@@ -1,0 +1,50 @@
+{
+	"basics":{
+		"name":"renuka",
+		"role":"Mean-stack",
+		"mobile":"+918074372215",
+		"email":"renukakotapati@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"B-Tech(Computer Science and Engineering)",
+		"institute":"Vignan Nirula",
+		"data":["2016-20","81%"]
+		},
+		{
+			"degree":"Intermediate(MPC)",
+		"institute":"Sadhana junior college",
+		"data":["2014-16","94%"]
+		},
+{
+			"degree":"S.S.C",
+		"institute":"Viswasanthi High School",
+		"data":["2013-14","92%"]
+		}
+	],
+	"skills":[
+		{
+			"title":"Programmimg Languages",
+			"content":["Python","C","Java","R","C++"]
+
+		},
+		{
+			"title":"Data Bases",
+			"content":["SQL","Oracle","mysql"]
+
+		},
+		{
+			"title":"Web Technologies",
+			"content":["HTML","Java Script","XML","CSS"]
+
+		},
+		{
+			"title":"Operating Systems",
+			"content":["Windows","Unix","Linux"]
+
+		}
+	]
+}
